@@ -1,0 +1,47 @@
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroyPortMonitorService\bin\Release\TroyPortMonitorService.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroyPortMonitorService\bin\Release\Troy.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.Blob.BlobViewer.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.Testing.Tester.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.csprojResolveAssemblyReference.cache
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\TroyPortMonitorService\bin\Release\TroyPortMonitorService.pdb
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.dll
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.pdb
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.csprojResolveAssemblyReference.cache
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.Blob.BlobViewer.resources
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.Testing.Tester.resources
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.csproj.GenerateResource.Cache
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\TroyPortMonitorService\bin\Release\Troy.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroyPortMonitorService\bin\Release\TroyPortMonitorService.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.Blob.BlobViewer.resources
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.Testing.Tester.resources
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroyPortMonitorService\bin\Release\Troy.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe.config
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.exe
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroyPortMonitorService\bin\Release\TroyPortMonitorService.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.Blob.BlobViewer.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.Testing.Tester.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroyPortMonitorService\obj\Release\TroyPortMonitorService.csproj.GenerateResource.Cache

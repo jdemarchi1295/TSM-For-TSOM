@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOCUMENT Type="Advanced Installer" CreateVersion="12.0" version="12.0" Modules="professional" RootPath="." Language="en" Id="{4C781D31-7A09-4834-ADD9-947DD292A722}">
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiPropsComponent">
+    <ROW Property="AI_BITMAP_DISPLAY_MODE" Value="0"/>
+    <ROW Property="ALLUSERS" Value="1" MultiBuildValue="Build_1:#Build_2:"/>
+    <ROW Property="ARPCOMMENTS" Value="This installer database contains the logic and data required to install [|ProductName]." ValueLocId="*"/>
+    <ROW Property="ARPCONTACT" Value="TROY Group Inc."/>
+    <ROW Property="AspNetVersion" Value="4.0.30319.0"/>
+    <ROW Property="Manufacturer" Value="Troy Group"/>
+    <ROW Property="ProductCode" Value="1033:{95120B84-505A-4295-BE85-90522F9E4CF7} " Type="16"/>
+    <ROW Property="ProductLanguage" Value="1033"/>
+    <ROW Property="ProductName" Value="TROY SecurePort Monitor"/>
+    <ROW Property="ProductVersion" Value="1.2.0" Type="32"/>
+    <ROW Property="SecureCustomProperties" Value="OLDPRODUCTS;AI_NEWERPRODUCTFOUND"/>
+    <ROW Property="UpgradeCode" Value="{625965D0-DFCA-41E5-B6EC-8B954F9CABAA}"/>
+    <ROW Property="WindowsType9X" MultiBuildValue="Build:Windows 9x/ME#Build_1:Windows 9x/ME#Build_2:Windows 9x/ME" ValueLocId="-"/>
+    <ROW Property="WindowsType9XDisplay" MultiBuildValue="Build:Windows 9x/ME#Build_1:Windows 9x/ME#Build_2:Windows 9x/ME" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT40" MultiBuildValue="Build:Windows NT 4.0#Build_1:Windows NT 4.0#Build_2:Windows NT 4.0" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT40Display" MultiBuildValue="Build:Windows NT 4.0#Build_1:Windows NT 4.0#Build_2:Windows NT 4.0" ValueLocId="-"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiDirsComponent">
+    <ROW Directory="APPDIR" Directory_Parent="TARGETDIR" DefaultDir="APPDIR:." IsPseudoRoot="1"/>
+    <ROW Directory="ProgramMenuFolder" Directory_Parent="TARGETDIR" DefaultDir="PROGRA~1|ProgramMenuFolder" IsPseudoRoot="1"/>
+    <ROW Directory="System64Folder" Directory_Parent="TARGETDIR" DefaultDir="SYSTEM~1|System64Folder" IsPseudoRoot="1"/>
+    <ROW Directory="SystemFolder" Directory_Parent="TARGETDIR" DefaultDir="SYSTEM~2|SystemFolder" IsPseudoRoot="1"/>
+    <ROW Directory="TARGETDIR" DefaultDir="SourceDir"/>
+    <ROW Directory="_8588DB632D2F4399AECFCC3BD0F14EB9" Directory_Parent="APPDIR" DefaultDir="CONFIG~1|Configuration"/>
+    <ROW Directory="_8EA3C94C4B3C49E398E57AFE034D6EFE" Directory_Parent="ProgramMenuFolder" DefaultDir="TROYGR~1|TROY Group Inc"/>
+    <ROW Directory="_C14AB055A61240A8B35CCDEA004B9C79" Directory_Parent="APPDIR" DefaultDir="PRINTP~1|PrintPort1"/>
+    <ROW Directory="_F7FF31AAD1E34F959F7EC76517FA0F9D" Directory_Parent="_C14AB055A61240A8B35CCDEA004B9C79" DefaultDir="Config"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCompsComponent">
+    <ROW Component="C__05BAFB64E3484A508FC56E5B2E55EBAA" ComponentId="{7B52C606-797D-4241-93AD-8723139F7B1D}" Directory_="_F7FF31AAD1E34F959F7EC76517FA0F9D" Attributes="0" KeyPath="_05BAFB64E3484A508FC56E5B2E55EBAA"/>
+    <ROW Component="C__0E8F78E4A7674AEAA234A0CBC1702547" ComponentId="{E98DB2A7-6575-421D-9EFA-F22C188C48AE}" Directory_="APPDIR" Attributes="0" KeyPath="_0E8F78E4A7674AEAA234A0CBC1702547"/>
+    <ROW Component="C__2EE1FFBF96954945AF349336D8491D4D" ComponentId="{A6490CEC-B21A-407B-9A8E-2C5807C986E7}" Directory_="APPDIR" Attributes="4" KeyPath="_2EE1FFBF96954945AF349336D8491D4D"/>
+    <ROW Component="C__36242F1B207F4342A7535964851E0C9A" ComponentId="{7D14DB1E-CF5D-441E-B9F4-BA0A6D9DE8B9}" Directory_="_8588DB632D2F4399AECFCC3BD0F14EB9" Attributes="0" KeyPath="_36242F1B207F4342A7535964851E0C9A"/>
+    <ROW Component="C__4867C7015615430E870C05FC0D451F82" ComponentId="{F8D5466B-B7A2-42DB-BCD9-A20B0EBD98C7}" Directory_="_8588DB632D2F4399AECFCC3BD0F14EB9" Attributes="0" KeyPath="_4867C7015615430E870C05FC0D451F82"/>
+    <ROW Component="C__571C9F4DE771402C9C7FF8212F12A446" ComponentId="{7982E10B-5DF2-42CF-8524-93663ACFBF73}" Directory_="_8588DB632D2F4399AECFCC3BD0F14EB9" Attributes="0" KeyPath="_571C9F4DE771402C9C7FF8212F12A446"/>
+    <ROW Component="C__89F442298C444AFABC7B4F676EA01226" ComponentId="{3684E6E4-2950-49EA-AA96-628D1573F75B}" Directory_="APPDIR" Attributes="0" KeyPath="_89F442298C444AFABC7B4F676EA01226"/>
+    <ROW Component="C__91B86E6BDB914E589804A619AE47C63C" ComponentId="{D1DE04CC-0228-429E-ACB7-AD7C06A465B6}" Directory_="APPDIR" Attributes="4" KeyPath="_91B86E6BDB914E589804A619AE47C63C"/>
+    <ROW Component="C__A6220A1FE09D494F9BA3A8D3BA7B2716" ComponentId="{A50D7196-286D-4AC4-834C-60324C636B3D}" Directory_="_F7FF31AAD1E34F959F7EC76517FA0F9D" Attributes="0" KeyPath="_A6220A1FE09D494F9BA3A8D3BA7B2716"/>
+    <ROW Component="C__B4BA971E39D14245A7BEA0A72CAE308B" ComponentId="{8289734C-6810-45F4-A56A-0955DDBC2F63}" Directory_="APPDIR" Attributes="0" KeyPath="_B4BA971E39D14245A7BEA0A72CAE308B"/>
+    <ROW Component="C__BA52B385BCAD4DFE8AB502399B82D513" ComponentId="{451F4A1F-E318-4A70-9520-1F7441899BBF}" Directory_="APPDIR" Attributes="4" KeyPath="_BA52B385BCAD4DFE8AB502399B82D513"/>
+    <ROW Component="C__BBA8D57615B54E709F30D69818F5251D" ComponentId="{56839FCA-7FBB-4B7B-A7A6-0FB8AB38768D}" Directory_="APPDIR" Attributes="0" KeyPath="_BBA8D57615B54E709F30D69818F5251D"/>
+    <ROW Component="C__D10B4566B3CD4EA6AE6FE549C4A5A4DF" ComponentId="{A3EBD021-8101-4AE3-A245-91515DAB33F3}" Directory_="_F7FF31AAD1E34F959F7EC76517FA0F9D" Attributes="0" KeyPath="_D10B4566B3CD4EA6AE6FE549C4A5A4DF"/>
+    <ROW Component="C__E1499FE786DF48D889843A4E8BE79141" ComponentId="{9A13DF90-C2FE-4F7A-BDB5-F9913FAA010C}" Directory_="APPDIR" Attributes="0" KeyPath="_E1499FE786DF48D889843A4E8BE79141"/>
+    <ROW Component="CustomInstallFunctions.exe" ComponentId="{B4C93AC4-A0EA-4D42-A882-D9E9A3168D5E}" Directory_="APPDIR" Attributes="0" KeyPath="CustomInstallFunctions.exe"/>
+    <ROW Component="ProductInformation" ComponentId="{BBBBB646-5861-4776-82A4-D58372D92631}" Directory_="APPDIR" Attributes="4" KeyPath="Version"/>
+    <ROW Component="Troy.Core.dll" ComponentId="{F48BBF13-6C76-45BC-94DB-966D7C90836C}" Directory_="APPDIR" Attributes="0" KeyPath="Troy.Core.dll"/>
+    <ROW Component="Troy.PortMonitor.Core.dll" ComponentId="{1BF9DAE9-65AF-4E75-B572-C2033A7854EC}" Directory_="APPDIR" Attributes="0" KeyPath="Troy.PortMonitor.Core.dll"/>
+    <ROW Component="TroyPortMonitorService.exe" ComponentId="{EF167BB0-191D-416E-807A-ECF6EE1A8F12}" Directory_="APPDIR" Attributes="0" KeyPath="TroyPortMonitorService.exe"/>
+    <ROW Component="TroySecurePortMonitor.dll" ComponentId="{3D54794B-5D7A-43AD-B4DC-4C2EF1BC5251}" Directory_="System64Folder" Attributes="256" Condition="VersionNT64" KeyPath="TroySecurePortMonitor.dll"/>
+    <ROW Component="TroySecurePortMonitor.dll_1" ComponentId="{29A18D1B-37E6-4748-8BDE-19B5CCE4F5B7}" Directory_="SystemFolder" Attributes="0" Condition="NOT VersionNT64" KeyPath="TroySecurePortMonitor.dll_1"/>
+    <ROW Component="TroySecurePortMonitorUI.dll" ComponentId="{BD69B91F-CC27-43C1-8A6B-C159E860071A}" Directory_="System64Folder" Attributes="256" Condition="VersionNT64" KeyPath="TroySecurePortMonitorUI.dll"/>
+    <ROW Component="TroySecurePortMonitorUI.dll_1" ComponentId="{C731543E-E5F7-4D5F-AE7B-3B8ABD950103}" Directory_="SystemFolder" Attributes="0" Condition="NOT VersionNT64" KeyPath="TroySecurePortMonitorUI.dll_1"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFeatsComponent">
+    <ROW Feature="AI32BitFiles" Title="32-bit" Description="32-bit Executables and Libraries" Display="7" Level="1" Directory_="APPDIR" Attributes="0" Components="C__B4BA971E39D14245A7BEA0A72CAE308B C__BBA8D57615B54E709F30D69818F5251D CustomInstallFunctions.exe Troy.Core.dll Troy.PortMonitor.Core.dll TroyPortMonitorService.exe TroySecurePortMonitor.dll_1 TroySecurePortMonitorUI.dll_1"/>
+    <ROW Feature="AI64BitFiles" Title="64-bit" Description="64-bit Executables and Libraries" Display="5" Level="1" Directory_="APPDIR" Attributes="0" Components="TroySecurePortMonitor.dll TroySecurePortMonitorUI.dll"/>
+    <ROW Feature="AIOtherFiles" Title="Common" Description="Shared Resource and Regular Files" Display="9" Level="1" Directory_="APPDIR" Attributes="0" Components="C__05BAFB64E3484A508FC56E5B2E55EBAA C__0E8F78E4A7674AEAA234A0CBC1702547 C__36242F1B207F4342A7535964851E0C9A C__4867C7015615430E870C05FC0D451F82 C__571C9F4DE771402C9C7FF8212F12A446 C__89F442298C444AFABC7B4F676EA01226 C__A6220A1FE09D494F9BA3A8D3BA7B2716 C__D10B4566B3CD4EA6AE6FE549C4A5A4DF C__E1499FE786DF48D889843A4E8BE79141"/>
+    <ROW Feature="DefaultFeature" Title="DefaultFeature" Display="2" Level="1" Directory_="APPDIR" Attributes="0" Components="C__2EE1FFBF96954945AF349336D8491D4D C__91B86E6BDB914E589804A619AE47C63C C__BA52B385BCAD4DFE8AB502399B82D513"/>
+    <ROW Feature="MainFeature" Title="MainFeature" Description="Description" Display="1" Level="1" Directory_="APPDIR" Attributes="0" Components="ProductInformation"/>
+    <ATTRIBUTE name="CurrentFeature" value="MainFeature"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFilesComponent">
+    <ROW File="CustomInstallFunctions.exe" Component_="CustomInstallFunctions.exe" FileName="CUSTOM~1.EXE|CustomInstallFunctions.exe" Attributes="0" SourcePath="..\CustomInstallFunctions\bin\Release\CustomInstallFunctions.exe" SelfReg="false" NextFile="TroySecurePortMonitor.dll" DigSign="true"/>
+    <ROW File="Troy.Core.dll" Component_="Troy.Core.dll" FileName="TROYCO~1.DLL|Troy.Core.dll" Attributes="0" SourcePath="..\TroyPortMonitorService\bin\Release\Troy.Core.dll" SelfReg="false" NextFile="Troy.PortMonitor.Core.dll"/>
+    <ROW File="Troy.PortMonitor.Core.dll" Component_="Troy.PortMonitor.Core.dll" FileName="TROYPO~1.DLL|Troy.PortMonitor.Core.dll" Attributes="0" SourcePath="..\TroyPortMonitorService\bin\Release\Troy.PortMonitor.Core.dll" SelfReg="false" NextFile="CustomInstallFunctions.exe"/>
+    <ROW File="TroyPortMonitorService.exe" Component_="TroyPortMonitorService.exe" FileName="TROYPO~1.EXE|TroyPortMonitorService.exe" Attributes="0" SourcePath="..\TroyPortMonitorService\bin\Release\TroyPortMonitorService.exe" SelfReg="false" NextFile="Troy.Core.dll" DigSign="true"/>
+    <ROW File="TroySecurePortMonitor.dll" Component_="TroySecurePortMonitor.dll" FileName="TROYSE~1.DLL|TroySecurePortMonitor.dll" Attributes="0" SourcePath="..\..\..\..\..\..\OFFICIAL DLLS\TroySecurePortMonitor.dll" SelfReg="false" NextFile="TroySecurePortMonitorUI.dll"/>
+    <ROW File="TroySecurePortMonitor.dll_1" Component_="TroySecurePortMonitor.dll_1" FileName="TROYSE~1.DLL|TroySecurePortMonitor.dll" Attributes="1" SourcePath="..\..\..\..\..\..\OFFICIAL 32 BIT DLLS\TroySecurePortMonitor.dll" SelfReg="false" NextFile="TroySecurePortMonitorUI.dll_1"/>
+    <ROW File="TroySecurePortMonitorUI.dll" Component_="TroySecurePortMonitorUI.dll" FileName="TROYSE~2.DLL|TroySecurePortMonitorUI.dll" Attributes="0" SourcePath="..\..\..\..\..\..\OFFICIAL DLLS\TroySecurePortMonitorUI.dll" SelfReg="false" NextFile="TroySecurePortMonitor.dll_1"/>
+    <ROW File="TroySecurePortMonitorUI.dll_1" Component_="TroySecurePortMonitorUI.dll_1" FileName="TROYSE~2.DLL|TroySecurePortMonitorUI.dll" Attributes="1" SourcePath="..\..\..\..\..\..\OFFICIAL 32 BIT DLLS\TroySecurePortMonitorUI.dll" SelfReg="false"/>
+    <ROW File="_05BAFB64E3484A508FC56E5B2E55EBAA" Component_="C__05BAFB64E3484A508FC56E5B2E55EBAA" FileName="TIMESN~1.CSV|TimesNewRomanMap.csv" Attributes="512" SourcePath="..\Configuration\TimesNewRomanMap.csv" SelfReg="false" NextFile="_0E8F78E4A7674AEAA234A0CBC1702547"/>
+    <ROW File="_0E8F78E4A7674AEAA234A0CBC1702547" Component_="C__0E8F78E4A7674AEAA234A0CBC1702547" FileName="TROYPM~1.XML|TroyPMServiceConfiguration.xml" Attributes="512" SourcePath="..\Configuration\TroyPMServiceConfiguration.xml" SelfReg="false" NextFile="_36242F1B207F4342A7535964851E0C9A"/>
+    <ROW File="_36242F1B207F4342A7535964851E0C9A" Component_="C__36242F1B207F4342A7535964851E0C9A" FileName="TROYST~1.CSV|TroyStandardMap.csv" Attributes="512" SourcePath="..\Configuration\TroyStandardMap.csv" SelfReg="false" NextFile="_4867C7015615430E870C05FC0D451F82"/>
+    <ROW File="_4867C7015615430E870C05FC0D451F82" Component_="C__4867C7015615430E870C05FC0D451F82" FileName="PORTMO~1.XML|PortMonitorConfigurationTSOM.xml" Attributes="512" SourcePath="..\Configuration\PortMonitorConfigurationTSOM.xml" SelfReg="false" NextFile="_571C9F4DE771402C9C7FF8212F12A446"/>
+    <ROW File="_571C9F4DE771402C9C7FF8212F12A446" Component_="C__571C9F4DE771402C9C7FF8212F12A446" FileName="TIMESN~1.CSV|TimesNewRomanMap.csv" Attributes="512" SourcePath="..\Configuration\TimesNewRomanMap.csv" SelfReg="false" NextFile="_89F442298C444AFABC7B4F676EA01226"/>
+    <ROW File="_89F442298C444AFABC7B4F676EA01226" Component_="C__89F442298C444AFABC7B4F676EA01226" FileName="TROYLO~1.JPG|TROY LOGO RGB SmallWS.JPG" Attributes="514" SourcePath="..\Logos and Icons\TROY LOGO RGB SmallWS.JPG" SelfReg="false" NextFile="_A6220A1FE09D494F9BA3A8D3BA7B2716"/>
+    <ROW File="_A6220A1FE09D494F9BA3A8D3BA7B2716" Component_="C__A6220A1FE09D494F9BA3A8D3BA7B2716" FileName="PORTMO~1.XML|PortMonitorConfigurationTSOM.xml" Attributes="512" SourcePath="..\Configuration\PortMonitorConfigurationTSOM.xml" SelfReg="false" NextFile="_B4BA971E39D14245A7BEA0A72CAE308B"/>
+    <ROW File="_B4BA971E39D14245A7BEA0A72CAE308B" Component_="C__B4BA971E39D14245A7BEA0A72CAE308B" FileName="ADDSEC~1.EXE|AddSecurePortUtility.exe" Attributes="512" SourcePath="..\AddSecurePortUtility\bin\Release\AddSecurePortUtility.exe" SelfReg="false" NextFile="_BBA8D57615B54E709F30D69818F5251D"/>
+    <ROW File="_BBA8D57615B54E709F30D69818F5251D" Component_="C__BBA8D57615B54E709F30D69818F5251D" FileName="TROYSE~1.EXE|TroySecurePortMonitorConfigurationUtility.exe" Attributes="512" SourcePath="..\TroySecurePortMonitorUserInterface\bin\Release\TroySecurePortMonitorConfigurationUtility.exe" SelfReg="false" NextFile="_D10B4566B3CD4EA6AE6FE549C4A5A4DF"/>
+    <ROW File="_D10B4566B3CD4EA6AE6FE549C4A5A4DF" Component_="C__D10B4566B3CD4EA6AE6FE549C4A5A4DF" FileName="TROYST~1.CSV|TroyStandardMap.csv" Attributes="512" SourcePath="..\Configuration\TroyStandardMap.csv" SelfReg="false" NextFile="_E1499FE786DF48D889843A4E8BE79141"/>
+    <ROW File="_E1499FE786DF48D889843A4E8BE79141" Component_="C__E1499FE786DF48D889843A4E8BE79141" FileName="TROYSO~1.RTF|TROY Software License Agreement.rtf" Attributes="514" SourcePath="..\License Agreement\TROY Software License Agreement.rtf" SelfReg="false" NextFile="TroyPortMonitorService.exe"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.BuildComponent">
+    <ROW BuildKey="Build" BuildName="Debug" BuildOrder="1" BuildType="0" PackageFolder="Debug" PackageFileName="TroySecurePortMonitorSetupForTsom64" Languages="en" InstallationType="4" CabsLocation="1" PackageType="1" UseLargeSchema="true" ExeName="TroySecurePortMonitorSetupForTsom64" MsiPackageType="AI_ALL" UACExecutionLevel="2"/>
+    <ROW BuildKey="Build_1" BuildName="International" BuildOrder="2" BuildType="0" PackageFolder="International" PackageFileName="TroySecurePortMonitorSetupForRx" Languages="en" InstallationType="4" PackageType="1" UseLargeSchema="true" ExeName="TroySecurePortMonitorSetupForRx" MsiPackageType="x64"/>
+    <ROW BuildKey="Build_2" BuildName="Release" BuildOrder="3" BuildType="0" PackageFolder="Release" PackageFileName="TroySecurePortMonitorSetup" Languages="en" InstallationType="4" PackageType="1" UseLargeSchema="true" ExeName="TroySecurePortMonitorSetup" MsiPackageType="x64"/>
+    <ATTRIBUTE name="CurrentBuild" value="Build"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
+    <ROW Path="&lt;AI_DICTS&gt;ui.ail"/>
+    <ROW Path="&lt;AI_DICTS&gt;ui_en.ail"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.FragmentComponent">
+    <ROW Fragment="CommonUI.aip" Path="&lt;AI_FRAGS&gt;CommonUI.aip"/>
+    <ROW Fragment="FolderDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\FolderDlg.aip"/>
+    <ROW Fragment="MaintenanceTypeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\MaintenanceTypeDlg.aip"/>
+    <ROW Fragment="MaintenanceWelcomeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\MaintenanceWelcomeDlg.aip"/>
+    <ROW Fragment="SequenceDialogs.aip" Path="&lt;AI_THEMES&gt;classic\fragments\SequenceDialogs.aip"/>
+    <ROW Fragment="Sequences.aip" Path="&lt;AI_FRAGS&gt;Sequences.aip"/>
+    <ROW Fragment="StaticUIStrings.aip" Path="&lt;AI_FRAGS&gt;StaticUIStrings.aip"/>
+    <ROW Fragment="UI.aip" Path="&lt;AI_THEMES&gt;classic\fragments\UI.aip"/>
+    <ROW Fragment="Validation.aip" Path="&lt;AI_FRAGS&gt;Validation.aip"/>
+    <ROW Fragment="VerifyRemoveDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\VerifyRemoveDlg.aip"/>
+    <ROW Fragment="VerifyRepairDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\VerifyRepairDlg.aip"/>
+    <ROW Fragment="WelcomeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\WelcomeDlg.aip"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiAssemblyComponent">
+    <ROW Component_="C__B4BA971E39D14245A7BEA0A72CAE308B" Feature_="AI32BitFiles" File_Application="_B4BA971E39D14245A7BEA0A72CAE308B" Attributes="0"/>
+    <ROW Component_="C__BBA8D57615B54E709F30D69818F5251D" Feature_="DefaultFeature" File_Application="_BBA8D57615B54E709F30D69818F5251D" Attributes="0"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiAssemblyNameComponent">
+    <ROW Component_="C__B4BA971E39D14245A7BEA0A72CAE308B" Name="Name" Value="AddSecurePortUtility" Sync="false"/>
+    <ROW Component_="C__B4BA971E39D14245A7BEA0A72CAE308B" Name="Version" Value="1.0.0.0" Sync="false"/>
+    <ROW Component_="C__B4BA971E39D14245A7BEA0A72CAE308B" Name="Culture" Value="neutral" Sync="false"/>
+    <ROW Component_="C__B4BA971E39D14245A7BEA0A72CAE308B" Name="processorArchitecture" Value="MSIL" Sync="false"/>
+    <ROW Component_="C__BBA8D57615B54E709F30D69818F5251D" Name="Name" Value="TroySecurePortMonitorConfigurationUtility" Sync="false"/>
+    <ROW Component_="C__BBA8D57615B54E709F30D69818F5251D" Name="Version" Value="1.0.0.0" Sync="false"/>
+    <ROW Component_="C__BBA8D57615B54E709F30D69818F5251D" Name="Culture" Value="neutral" Sync="false"/>
+    <ROW Component_="C__BBA8D57615B54E709F30D69818F5251D" Name="processorArchitecture" Value="MSIL" Sync="false"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiBinaryComponent">
+    <ROW Name="Prereq.dll" SourcePath="&lt;AI_CUSTACTS&gt;Prereq.dll"/>
+    <ROW Name="aicustact.dll" SourcePath="&lt;AI_CUSTACTS&gt;aicustact.dll"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiConditionComponent">
+    <ROW Feature_="AI64BitFiles" Level="0" Condition="NOT VersionNT64"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiControlEventComponent">
+    <ROW Dialog_="WelcomeDlg" Control_="Next" Event="NewDialog" Argument="FolderDlg" Condition="AI_INSTALL" Ordering="1"/>
+    <ROW Dialog_="FolderDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_INSTALL" Ordering="201"/>
+    <ROW Dialog_="FolderDlg" Control_="Back" Event="NewDialog" Argument="WelcomeDlg" Condition="AI_INSTALL" Ordering="1"/>
+    <ROW Dialog_="MaintenanceWelcomeDlg" Control_="Next" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT" Ordering="99"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_MAINT" Ordering="198"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="CustomizeDlg" Condition="AI_MAINT" Ordering="202"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_INSTALL" Ordering="197"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="FolderDlg" Condition="AI_INSTALL" Ordering="201"/>
+    <ROW Dialog_="CustomizeDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_MAINT" Ordering="101"/>
+    <ROW Dialog_="CustomizeDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="ChangeButton" Event="NewDialog" Argument="CustomizeDlg" Condition="AI_MAINT" Ordering="501"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceWelcomeDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="RemoveButton" Event="NewDialog" Argument="VerifyRemoveDlg" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="601"/>
+    <ROW Dialog_="VerifyRemoveDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="RepairButton" Event="NewDialog" Argument="VerifyRepairDlg" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="601"/>
+    <ROW Dialog_="VerifyRepairDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="1"/>
+    <ROW Dialog_="VerifyRepairDlg" Control_="Repair" Event="EndDialog" Argument="Return" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="399" Options="1"/>
+    <ROW Dialog_="VerifyRemoveDlg" Control_="Remove" Event="EndDialog" Argument="Return" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="299" Options="1"/>
+    <ROW Dialog_="PatchWelcomeDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_PATCH" Ordering="201"/>
+    <ROW Dialog_="ResumeDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_RESUME" Ordering="299"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_PATCH" Ordering="199"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="PatchWelcomeDlg" Condition="AI_PATCH" Ordering="203"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCustActComponent">
+    <ROW Action="AI_AppSearchEx" Type="1" Source="Prereq.dll" Target="DoAppSearchEx"/>
+    <ROW Action="AI_DOWNGRADE" Type="19" Target="4010"/>
+    <ROW Action="AI_DpiContentScale" Type="1" Source="aicustact.dll" Target="DpiContentScale"/>
+    <ROW Action="AI_InstallModeCheck" Type="1" Source="aicustact.dll" Target="UpdateInstallMode" WithoutSeq="true"/>
+    <ROW Action="AI_PREPARE_UPGRADE" Type="65" Source="aicustact.dll" Target="PrepareUpgrade"/>
+    <ROW Action="AI_RESTORE_LOCATION" Type="65" Source="aicustact.dll" Target="RestoreLocation"/>
+    <ROW Action="AI_ResolveKnownFolders" Type="1" Source="aicustact.dll" Target="AI_ResolveKnownFolders"/>
+    <ROW Action="AI_SETPROGRAMFILES" Type="51" Source="AI_ProgramFiles" Target="[ProgramFilesFolder]"/>
+    <ROW Action="AI_SETPROGRAMFILES64" Type="51" Source="AI_ProgramFiles" Target="[ProgramFiles64Folder]"/>
+    <ROW Action="AI_SHOW_LOG" Type="65" Source="aicustact.dll" Target="LaunchLogFile" WithoutSeq="true"/>
+    <ROW Action="AI_STORE_LOCATION" Type="51" Source="ARPINSTALLLOCATION" Target="[APPDIR]"/>
+    <ROW Action="SET_APPDIR" Type="307" Source="APPDIR" Target="[ProgramFiles64Folder][Manufacturer][Title]" MultiBuildTarget="Build:[AI_ProgramFiles][Manufacturer]\[ProductName]"/>
+    <ROW Action="SET_SHORTCUTDIR" Type="307" Source="SHORTCUTDIR" Target="[ProgramMenuFolder][ProductName]"/>
+    <ROW Action="SET_TARGETDIR_TO_APPDIR" Type="51" Source="TARGETDIR" Target="[APPDIR]"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstExSeqComponent">
+    <ROW Action="AI_DOWNGRADE" Condition="AI_NEWERPRODUCTFOUND AND (UILevel &lt;&gt; 5)" Sequence="210"/>
+    <ROW Action="AI_RESTORE_LOCATION" Condition="APPDIR=&quot;&quot;" Sequence="746"/>
+    <ROW Action="AI_STORE_LOCATION" Condition="(Not Installed) OR REINSTALL" Sequence="1501"/>
+    <ROW Action="AI_PREPARE_UPGRADE" Condition="AI_UPGRADE=&quot;No&quot; AND (Not Installed)" Sequence="1399"/>
+    <ROW Action="AI_ResolveKnownFolders" Sequence="51"/>
+    <ROW Action="AI_SETPROGRAMFILES64" Condition="VersionNT64" Sequence="747"/>
+    <ROW Action="AI_SETPROGRAMFILES" Condition="NOT VersionNT64" Sequence="748"/>
+    <ROW Action="AI_AppSearchEx" Sequence="101"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstallUISequenceComponent">
+    <ROW Action="AI_RESTORE_LOCATION" Condition="APPDIR=&quot;&quot;" Sequence="746"/>
+    <ROW Action="AI_ResolveKnownFolders" Sequence="52"/>
+    <ROW Action="AI_DpiContentScale" Sequence="51"/>
+    <ROW Action="AI_SETPROGRAMFILES64" Condition="VersionNT64" Sequence="747"/>
+    <ROW Action="AI_SETPROGRAMFILES" Condition="NOT VersionNT64" Sequence="748"/>
+    <ROW Action="AI_AppSearchEx" Sequence="101"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiLaunchConditionsComponent">
+    <ROW Condition="(VersionNT &lt;&gt; 400)" Description="[ProductName] cannot be installed on the following Windows versions: [WindowsTypeNT40Display]" DescriptionLocId="AI.LaunchCondition.NoNT40" IsPredefined="true" Builds="Build;Build_1;Build_2"/>
+    <ROW Condition="SETUPEXEDIR OR (REMOVE=&quot;ALL&quot;)" Description="This package can only be run from a bootstrapper." DescriptionLocId="AI.LaunchCondition.RequireBootstrapper" IsPredefined="true" Builds="Build;Build_1;Build_2"/>
+    <ROW Condition="VersionNT" Description="[ProductName] cannot be installed on [WindowsType9XDisplay]" DescriptionLocId="AI.LaunchCondition.No9X" IsPredefined="true" Builds="Build;Build_1;Build_2"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiRegsComponent">
+    <ROW Registry="Path" Root="-1" Key="Software\[Manufacturer]\[ProductName]" Name="Path" Value="[APPDIR]" Component_="ProductInformation"/>
+    <ROW Registry="Version" Root="-1" Key="Software\[Manufacturer]\[ProductName]" Name="Version" Value="[ProductVersion]" Component_="ProductInformation"/>
+    <ROW Registry="_2EE1FFBF96954945AF349336D8491D4D" Root="2" Key="System\CurrentControlSet\Control\Print\Monitors\TroySecurePortMonitor" Name="MainConfigurationPath" Value="[APPDIR]" Component_="C__2EE1FFBF96954945AF349336D8491D4D"/>
+    <ROW Registry="_91B86E6BDB914E589804A619AE47C63C" Root="2" Key="System\CurrentControlSet\Control\Print\Monitors\TroySecurePortMonitor" Name="Driver" Value="TroySecurePortMonitor.dll" Component_="C__91B86E6BDB914E589804A619AE47C63C"/>
+    <ROW Registry="_BA52B385BCAD4DFE8AB502399B82D513" Root="2" Key="System\CurrentControlSet\Control\Print\Monitors\TroySecurePortMonitor\Ports" Name="TROYPORT1:" Value="[APPDIR]\PrintPort1\" Component_="C__BA52B385BCAD4DFE8AB502399B82D513"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiServCtrlComponent">
+    <ROW ServiceControl="TroyPortMonitorService.exe" Name="TroyPortMonitorService.exe" Event="161" Wait="1" Component_="TroyPortMonitorService.exe"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiServInstComponent">
+    <ROW ServiceInstall="TroyPortMonitorService.exe" Name="TroyPortMonitorService.exe" DisplayName="Troy Port Monitor Service" ServiceType="272" StartType="2" ErrorControl="1" Component_="TroyPortMonitorService.exe"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiShortsComponent">
+    <ROW Shortcut="_66C3DE0C672E4F81A00C55085DB2D405" Directory_="_8EA3C94C4B3C49E398E57AFE034D6EFE" Name="SECURE~1|SecurePort Monitor Configuration Utility" Component_="C__BBA8D57615B54E709F30D69818F5251D" Target="[#_BBA8D57615B54E709F30D69818F5251D]" Hotkey="0" IconIndex="0" ShowCmd="1" WkDir="APPDIR" Advertised="true"/>
+    <ROW Shortcut="_EE4A9428F00E48ED86E133DF6C591B6D" Directory_="_8EA3C94C4B3C49E398E57AFE034D6EFE" Name="ADDSEC~1|Add SecurePort Utility" Component_="C__B4BA971E39D14245A7BEA0A72CAE308B" Target="[#_B4BA971E39D14245A7BEA0A72CAE308B]" Hotkey="0" IconIndex="0" ShowCmd="1" WkDir="APPDIR" Advertised="true"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiThemeComponent">
+    <ATTRIBUTE name="UsedTheme" value="classic"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiUpgradeComponent">
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="0.0.1" VersionMax="[|ProductVersion]" Attributes="257" ActionProperty="OLDPRODUCTS"/>
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="[|ProductVersion]" Attributes="2" ActionProperty="AI_NEWERPRODUCTFOUND"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.PreReqComponent">
+    <ROW PrereqKey="FB44691010D74C6D89B33E019630EAF6" DisplayName=".NET Framework 4.5" SetupFileUrl="http://download.microsoft.com/download/b/a/4/ba4a7e71-2906-4b2d-a0e1-80cf16844f5f/dotnetfx45_full_x86_x64.exe" Location="1" ExactSize="50352408" WinNTVersions="Windows 2000, Windows 2000 Service Pack 1, Windows 2000 Service Pack 2, Windows 2000 Service Pack 3, Windows 2000 Service Pack 4, Windows XP x86, Windows XP x86 Service Pack 1, Windows XP x86 Service Pack 2, Windows XP x86 Service Pack 3, Windows Server 2003 x86, Windows Server 2003 x86 Service Pack 1, Windows Server 2003 x86 Service Pack 2, Windows 8 x86, Windows 8.1 x86" WinNT64Versions="Windows XP x64, Windows XP x64 Service Pack 1, Windows XP x64 Service Pack 2, Windows Server 2003 x64, Windows Server 2003 x64 Service Pack 1, Windows Server 2003 x64 Service Pack 2, Windows 8 x64, Windows Server 2012 x64, Windows 8.1 x64, Windows Server 2012 R2 x64" Operator="1" NoUiComLine="/q /norestart" Options="x" MD5="d02dc8b69a702a47c083278938c4d2f1" TargetName=".NET Framework 4.5?dotnetfx45_full_x86_x64.exe"/>
+    <ATTRIBUTE name="PrereqsOrder" value="FB44691010D74C6D89B33E019630EAF6"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.PreReqSearchComponent">
+    <ROW SearchKey="FB44691010D74C6D89B33E019630EAF6Release" Prereq="FB44691010D74C6D89B33E019630EAF6" SearchType="9" SearchString="HKLM\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full\Release" RefContent="G378388" Order="1" Property="PreReqSearch_FB44691010D74C6D89B33E019630EAF6"/>
+  </COMPONENT>
+</DOCUMENT>

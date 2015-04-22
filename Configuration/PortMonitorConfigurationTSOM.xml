@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PortMonitorConfigurationTsom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TsomSerializationDataFont>Microsoft Sans </TsomSerializationDataFont>
+  <TsomFontCharacterMapFile>TimesNewRomanMap.csv</TsomFontCharacterMapFile>
+  <FileReadDelay_ms>1000</FileReadDelay_ms>
+  <ReadAttempts>60</ReadAttempts>
+  <QueueDelay_ms>1000</QueueDelay_ms>
+  <MaxThreads>10</MaxThreads>
+  <FileExtension>prn</FileExtension>
+  <FilePrefix>tpm</FilePrefix>
+  <DebugBackupFilesPath></DebugBackupFilesPath>
+  <ErrorLogPath />
+  <LogErrorsToEventLog>true</LogErrorsToEventLog>
+  <EnableErrorMessageBoxes>false</EnableErrorMessageBoxes>
+  <DefaultPrinter />
+  <LogErrorSerializedDataNotFound>false</LogErrorSerializedDataNotFound>
+  <LogErrorDefaultPrinterUsed>false</LogErrorDefaultPrinterUsed>
+  <LogWarningMessages>false</LogWarningMessages>
+  <FatalErrorIfNotDefaultPrinter>false</FatalErrorIfNotDefaultPrinter>
+  <InsertPointPcl>/e*p0x0Y</InsertPointPcl>
+  <EndOfPagePcl>
+    <string>/e*p6400Y/f</string>
+    <string>/e*p6815Y/f</string>
+    <string>/e*p8200Y/f</string>
+    <string>/e*rB/f</string>
+  </EndOfPagePcl>
+  <EncryptionType>None</EncryptionType>
+  <AccountUserName />
+  <AccountPassword />
+  <DefaultPaperTrayMapping>false</DefaultPaperTrayMapping>
+  <EnableMicrMode>false</EnableMicrMode>
+  <AutoPageRotate>false</AutoPageRotate>
+  <PrinterPin />
+  <MicrPin />
+  <TroyJobName />
+  <TroyJobPin />
+  <HpJobPassword />
+  <AlternateEscCharacter />
+  <EnableDuplex />
+  <EncryptionPassword><![CDATA[]]></EncryptionPassword>
+</PortMonitorConfigurationTsom>

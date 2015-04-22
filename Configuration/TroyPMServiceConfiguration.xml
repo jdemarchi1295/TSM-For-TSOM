@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TroyPMServiceConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfThreads>0</NumberOfThreads>
+  <InsertPjlHeader>false</InsertPjlHeader>
+  <PortList>
+    <Port>
+      <PortName>Troy Secure Port 1</PortName>
+      <PortMonitorName>TROYPORT1:</PortMonitorName>
+      <ConfigurationPath>default</ConfigurationPath>
+      <MonitoredPort>true</MonitoredPort>
+    </Port>
+  </PortList>
+</TroyPMServiceConfiguration>

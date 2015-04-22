@@ -1,0 +1,33 @@
+C:\Users\jdemarchi.TROYSYS\Downloads\TSM For TSOM-16f48f13a74c\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.frmMainForm.resources
+C:\Users\jdemarchi.TROYSYS\Downloads\TSM For TSOM-16f48f13a74c\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Users\jdemarchi.TROYSYS\Downloads\TSM For TSOM-16f48f13a74c\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.Properties.Resources.resources
+C:\Users\jdemarchi.TROYSYS\Downloads\TSM For TSOM-16f48f13a74c\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.frmMainForm.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.Properties.Resources.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\bin\Debug\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\bin\Debug\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\bin\Debug\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\bin\Debug\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.frmMainForm.resources
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.Properties.Resources.resources
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\bin\Debug\AddSecurePortUtility.exe.config
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.frmMainForm.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.Properties.Resources.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\obj\Debug\AddSecurePortUtility.pdb

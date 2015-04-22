@@ -1,0 +1,46 @@
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\bin\Release\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\bin\Release\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\bin\Release\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\bin\Release\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.frmMainForm.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.Properties.Resources.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.csprojResolveAssemblyReference.cache
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\AddSecurePortUtility\bin\Release\AddSecurePortUtility.exe
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\AddSecurePortUtility\bin\Release\AddSecurePortUtility.pdb
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\AddSecurePortUtility\bin\Release\Troy.PortMonitor.Core.dll
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\AddSecurePortUtility\bin\Release\Troy.PortMonitor.Core.pdb
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.csprojResolveAssemblyReference.cache
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.frmMainForm.resources
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.Properties.Resources.resources
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.csproj.GenerateResource.Cache
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.exe
+C:\Users\glongstreet\Source\Workspaces\TSM for TSOM\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\bin\Release\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\bin\Release\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\bin\Release\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\bin\Release\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.frmMainForm.resources
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.Properties.Resources.resources
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\AddSecurePortUtility\bin\Release\AddSecurePortUtility.exe.config
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\bin\Release\AddSecurePortUtility.exe.config
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\bin\Release\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\bin\Release\AddSecurePortUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\bin\Release\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\bin\Release\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.frmMainForm.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.AddNewPortMonitor.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.Properties.Resources.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\AddSecurePortUtility\obj\Release\AddSecurePortUtility.pdb

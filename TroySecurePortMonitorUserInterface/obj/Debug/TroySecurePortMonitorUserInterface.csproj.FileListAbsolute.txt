@@ -1,0 +1,37 @@
+C:\Users\jdemarchi.TROYSYS\Downloads\TSM For TSOM-16f48f13a74c\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.MainScreen.resources
+C:\Users\jdemarchi.TROYSYS\Downloads\TSM For TSOM-16f48f13a74c\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.Properties.Resources.resources
+C:\Users\jdemarchi.TROYSYS\Downloads\TSM For TSOM-16f48f13a74c\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.SendToPrinter.resources
+C:\Users\jdemarchi.TROYSYS\Downloads\TSM For TSOM-16f48f13a74c\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.SplashForm.resources
+C:\Users\jdemarchi.TROYSYS\Downloads\TSM For TSOM-16f48f13a74c\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroySecurePortMonitorUserInterface\bin\Debug\TroySecurePortMonitorConfigurationUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroySecurePortMonitorUserInterface\bin\Debug\TroySecurePortMonitorConfigurationUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroySecurePortMonitorUserInterface\bin\Debug\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroySecurePortMonitorUserInterface\bin\Debug\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.MainScreen.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.Properties.Resources.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.SendToPrinter.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.SplashForm.resources
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorConfigurationUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\Visual Studio 2010\Projects\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorConfigurationUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorConfigurationUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorConfigurationUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroySecurePortMonitorUserInterface\bin\Debug\TroySecurePortMonitorConfigurationUtility.exe
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroySecurePortMonitorUserInterface\bin\Debug\TroySecurePortMonitorConfigurationUtility.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroySecurePortMonitorUserInterface\bin\Debug\Troy.PortMonitor.Core.dll
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroySecurePortMonitorUserInterface\bin\Debug\Troy.PortMonitor.Core.pdb
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.MainScreen.resources
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.Properties.Resources.resources
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.SendToPrinter.resources
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.SplashForm.resources
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\TSM For TSOM\TroySecurePortMonitorUserInterface\bin\Debug\TroySecurePortMonitorConfigurationUtility.exe.config
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.MainScreen.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.Properties.Resources.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.SendToPrinter.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.SplashForm.resources
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorUserInterface.csproj.GenerateResource.Cache
+C:\Users\jdemarchi.TROYSYS\Documents\GitHub\TSM For TSOM\TroySecurePortMonitorUserInterface\obj\Debug\TroySecurePortMonitorConfigurationUtility.pdb

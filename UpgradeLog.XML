@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TSM For TSOM">
+</Property><Property Name="Solution File" Value="C:\Users\jdemarchi.TROYSYS\Downloads\TSM For TSOM-16f48f13a74c\TSM For TSOM\TSM For TSOM.sln">
+</Property><Property Name="Date" Value="Thursday, September 25, 2014">
+</Property><Property Name="Time" Value="12:54:46 PM">
+</Property></Properties><Event ErrorLevel="0" Project="CustomInstallFunctions" Source="CustomInstallFunctions\CustomInstallFunctions.csproj" Description="Project file successfully backed up as C:\Users\jdemarchi.TROYSYS\Downloads\TSM For TSOM-16f48f13a74c\TSM For TSOM\Backup\CustomInstallFunctions.csproj">
+</Event><Event ErrorLevel="0" Project="CustomInstallFunctions" Source="CustomInstallFunctions\Program.cs" Description="File successfully backed up as C:\Users\jdemarchi.TROYSYS\Downloads\TSM For TSOM-16f48f13a74c\TSM For TSOM\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="CustomInstallFunctions" Source="CustomInstallFunctions\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\jdemarchi.TROYSYS\Downloads\TSM For TSOM-16f48f13a74c\TSM For TSOM\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CustomInstallFunctions" Source="CustomInstallFunctions\CustomInstallFunctions.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CustomInstallFunctions" Source="CustomInstallFunctions\CustomInstallFunctions.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CustomInstallFunctions" Source="CustomInstallFunctions\CustomInstallFunctions.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
